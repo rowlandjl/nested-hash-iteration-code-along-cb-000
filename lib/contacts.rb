@@ -19,5 +19,5 @@ def remove_strawberry(contacts)
     if person == "Freddy Mercury"
       binding.pry
     end 
-  end 
+  end
 end
